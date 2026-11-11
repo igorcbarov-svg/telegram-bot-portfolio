@@ -1,7 +1,0 @@
-.env
-.env_backup
-.venv/
-__pycache__/
-app/__pycache__/
-app/handlers/__pycache__/
-app/keyboards/__pycache__/
